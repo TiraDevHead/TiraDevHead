@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm currently work on our team [website](https://tira_dev.com)
+i'm currently work on our team [website](https://tira-dev.com)
 
 
 ## 🌐 Socials:
